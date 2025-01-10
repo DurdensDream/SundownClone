@@ -118,6 +118,9 @@ nav h3 {
     font-size: 1.8vw;
     line-height: 2vw;
 }
+#right h1{
+    z-index: 2;
+}
 
 #center h1 {
     font-size: 10vw;
